@@ -1,0 +1,60 @@
+[
+    {
+      "id":1,
+      "title": "Cinderella",
+      "author": "Charles Perrault",
+      "genre": "Fairy Tale",
+      "description": "The classic story of Cinderella, who overcomes her hardships with the help of her fairy godmother and finds happiness with the prince.",
+      "image_url": "1.jpg"
+    },
+    {
+      "id":2,
+      "title": "Snow White",
+      "author": "The Brothers Grimm",
+      "genre": "Fairy Tale",
+      "description": "The story of Snow White, who, after being poisoned by her stepmother, is saved by the kiss of a prince.",
+      "image_url": "2.jpg"
+    },
+    { "id":3,
+      "title": "Sleeping Beauty",
+      "author": "Charles Perrault",
+      "genre": "Fairy Tale",
+      "description": "Princess Aurora is cursed to sleep forever but is awakened by a prince's kiss.",
+      "image_url": "3.jpg"
+    },
+    {
+      "id":4,
+      "title": "Beauty and the Beast",
+      "author": "Jeanne-Marie Leprince de Beaumont",
+      "genre": "Fairy Tale",
+      "description": "Belle, a young woman who sees beyond the Beast’s appearance, teaches him to love and is ultimately loved in return.",
+      "image_url": "4.jpg"
+    },
+    {
+      "id":5,
+      "title": "Rapunzel",
+      "author": "The Brothers Grimm",
+      "genre": "Fairy Tale",
+      "description": "Rapunzel, a princess locked away in a tower, waits for the prince who will rescue her.",
+          "image_url": "5.jpg"
+    },
+    { "id":6,
+      "title": "The Little Mermaid",
+      "author": "Hans Christian Andersen",
+      "genre": "Fairy Tale",
+      "description": "Ariel, a mermaid princess, dreams of becoming human to be with the prince she loves.",
+      "image_url": "6.jpeg"
+    },
+    { "id":7,
+      "title": "Tangled",
+      "author": "Disney",
+      "genre": "Fairy Tale",
+      "description": "Rapunzel, a princess with magical hair, escapes from her tower to explore the world and find her destiny.",
+      "image_url": "7.jpg"
+  }
+   
+    
+]
+
+  
+  
